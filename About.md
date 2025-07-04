@@ -1,7 +1,7 @@
-Hi, Im currently working on making a library on the functioning of Airlines Managment...
+Hi, I have made a library on the functioning of Airlines Managment...
 
-It's the day 2 of making this project and it seems the project is still far from being completed yet...
-This Project is My 4th Project that im working on, and 1st Project That I'm uploading on Github.
-The project is developed with the help C++ Programming and a good enough understanding In Data Structure and Algorithms 
+This project is a console-based Airlines Management System developed in C++, utilizing concepts like Object-Oriented Programming (OOP), file handling, and modular design using user-defined libraries. It simulates real-world airline operations such as ticket booking, passenger records, flight schedules, and more.
 
-" The Project is still not completed and is in development stage,so if by anychance you are here than dont copy paste this project"
+The aim of this project is to demonstrate how C++ can be used to create a functional management system with clean structure and user interaction. Each feature is organized into reusable components for better maintainability and scalability.
+
+🔧 Explore the code, try out the features, and feel free to contribute or suggest improvements!
