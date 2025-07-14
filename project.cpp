@@ -194,7 +194,6 @@ class inputmodule{
 		return no;
 	}
 };
-
 class outputmodule{
 	public:
 	string source,destination;
